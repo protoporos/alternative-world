@@ -1,11 +1,11 @@
 # alternative-world
-___
+
 This is a list of nodes for an alternative world:
 
 ### Food production
 
 - [openfoodnetwork.de](https://openfoodnetwork.de/)
--
+- free food from trees and shrubs [mundraub](https://mundraub.org/); site gives possibility to organize
 -
 
 #### Water
