@@ -16,9 +16,9 @@ This is a list of nodes for an alternative world:
 
 ### Housing
 
-- [ecovillage.org](ecovillage.org/)
-- [gen-deutschland](gen-deutschland.de/was-wir-wollen/)
-- [wechange](wechange.de/map/)
+- [ecovillage.org](https://ecovillage.org/)
+- [gen-deutschland](https://gen-deutschland.de/was-wir-wollen/)
+- [wechange](https://wechange.de/map/)
 
 ## Share knowledge/projects/initiatives
 
