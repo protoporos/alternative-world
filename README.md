@@ -8,7 +8,7 @@ lists nodes of such a system which already have been created by lovely people im
 
 ## CHARACTERISTICS
 
-- **living in communities**: not only is it closer to our human needs but also, a more efficient use of resources is possible. This prerequisite results in a number of other things that define how life looks like in this alternative world:
+- **living in communities**: not only is it closer to our human needs but also, a more efficient use of resources. This prerequisite of sharing an hibitation results in a number of other things that define how life looks like in this alternative world:
   - social intelligence: communication has to be better than in this world for it to work, since a lot of trust in one another is definitely necessary.
   - How to organise such a community is open for discussion :)
 - **independence of economic growth**: this community should drive whether or not the economic grows, which means it should have a certain degree of self-sufficiency.
