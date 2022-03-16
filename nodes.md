@@ -22,13 +22,16 @@ This is a list of nodes for an alternative world:
 
 ## Share knowledge/projects/initiatives
 
+- a repare forum for all kinds of tech: [ifixit](https://www.ifixit.com/)
 - [instructables](https://www.instructables.com/howto/)
 - working with plastics and share what you learn on the [community platform](https://community.preciousplastic.com/how-to) of preciousplastic
+
+## General
 - [kartevonmorgen](https://kartevonmorgen.org/)
 - about P2P production and commons: [p2pfoundation](https://p2pfoundation.net/)
 
 
 
-#### Not yet analyszed
+#### Not yet analysed
 
 - from a different [github repo](https://github.com/ouisharelabs/food-dashboard#links)
