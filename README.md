@@ -3,9 +3,6 @@
 This is an open project for people, who not only imagine a better world, but who are willing to create such a world. 
 This world should meet all human needs for everyone while staying inside planetary boundaries. We are convinced that by creating such a new system, we can happily replace the old obsolete one since it will become needless.   
 
-The repository hosts a number of different files with different duties. The file [nodes.md](https://github.com/protoporos/alternative-world/blob/main/nodes.md) 
-lists nodes of such a system which already have been created by lovely people imagining a better world.
-
 ## CHARACTERISTICS
 
 - **living in communities**: not only is it closer to our human needs but also, a more efficient use of resources. This prerequisite of sharing an hibitation results in a number of other things that define how life looks like in this alternative world:
@@ -19,3 +16,8 @@ lists nodes of such a system which already have been created by lovely people im
 ## HELP!
 
 You are on a very similar quest or want to get involved please contact me, it would make me very happy.
+
+## OVERVIEW
+
+The repository hosts a number of different files with different duties. The file [nodes.md](https://github.com/protoporos/alternative-world/blob/main/nodes.md) 
+lists nodes of such a system which already have been created by lovely people imagining a better world.  The markdown file named [Insoiration.md](Inspiration.md) lists a bunch of YouTube Videos that give an idea of what we want to create.
