@@ -3,7 +3,7 @@
 - [HappenFilms a documentary](https://www.youtube.com/watch?v=gq9sg397ee8&list=WL&index=63&ab_channel=HappenFilms)
 
 
-Thought **utopies** don't work and are only something for dreamers? Than get engaged in this list of working communes around the world:
+Thought **utopias** don't work and are only something for dreamers? Than get engaged in this list of working communes around the world:
   - [Tamera - Taste of a New Culture - Documentary about Tamera Peace Research Center in Portugal](https://www.youtube.com/watch?v=IryCO3MvAiQ)
   - Ithaca EcoVillage a [full tour by Flock](https://www.youtube.com/watch?v=n-uH36w9xg8)
   - Project Kamp is a utopie in Portugal around One Army. They have a whole [YouTube channel](https://www.youtube.com/channel/UCcGXEidw0qjNdq7Gii8gHgg) with a lot of videos, favourites:
@@ -19,6 +19,7 @@ Here are some very inspiring **individual stories** to dream about:
 - [Another documentry about a man and a piece of degraded land visited 30 years after](https://www.youtube.com/watch?v=3VZSJKbzyMc)
 - When even a family decides to live in such a world: [link](https://www.youtube.com/watch?v=rCRukvZE2Vk&ab_channel=HappenFilms)
 
+Bunch of **content creators** to have an even deeper look into that world:
 - Ever heard of Beau Miles? He has an appealing life philosophy and is besides being a prof a filmmaker; watch some of his world-view and gorgeous story-telling:
   - [A Tree a Minute: planting 1440 trees in a day](https://www.youtube.com/watch?v=AbA-hoIuHM4)
   - [Junk Office: Saving $10k by building it myself](https://www.youtube.com/watch?v=8QpFFB1QHto)
