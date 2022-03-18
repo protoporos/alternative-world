@@ -3,6 +3,7 @@
 This is a list of nodes for an alternative world:
 
 ### CLOTHING
+- 
 
 ### Food production
 
@@ -19,6 +20,7 @@ This is a list of nodes for an alternative world:
 - **all about [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) a git hub list**
 - a repare forum for all kinds of tech: [ifixit](https://www.ifixit.com/)
 - [instructables](https://www.instructables.com/howto/)
+- the [open hardware observatory](https://en.oho.wiki/wiki/Home)
 - working with plastics and share what you learn on the [community platform](https://community.preciousplastic.com/how-to) of preciousplastic
 - find next repair café, only in Germany: [reparatur-initiativen.de](https://www.reparatur-initiativen.de/reparatur-termine)
 - git hub shares a lot of tech too such as:
