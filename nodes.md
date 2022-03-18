@@ -14,6 +14,13 @@ This is a list of nodes for an alternative world:
 
 ### Clothing
 
+### TECH
+
+- a repare forum for all kinds of tech: [ifixit](https://www.ifixit.com/)
+- [instructables](https://www.instructables.com/howto/)
+- working with plastics and share what you learn on the [community platform](https://community.preciousplastic.com/how-to) of preciousplastic
+- find next repair café, only in Germany: [reparatur-initiativen.de](https://www.reparatur-initiativen.de/reparatur-termine)
+
 ### Housing
 
 - work on organic farms and get rewarded by a bed, healthy food and friendly people: [wwoof.net](https://wwoof.net/)
@@ -27,15 +34,13 @@ This is a list of nodes for an alternative world:
 
 ## Share knowledge/projects/initiatives
 
-- a repare forum for all kinds of tech: [ifixit](https://www.ifixit.com/)
-- [instructables](https://www.instructables.com/howto/)
-- working with plastics and share what you learn on the [community platform](https://community.preciousplastic.com/how-to) of preciousplastic
-- find next repair café, only in Germany: [reparatur-initiativen.de](https://www.reparatur-initiativen.de/reparatur-termine)
+- repository of Extinction Rebellion, a [founder course](https://github.com/extinctionrebellion/docs/blob/master/SUMMARY.md)
+- about P2P production and commons: [p2pfoundation](https://p2pfoundation.net/)
 
 ## General
+
 - [kartevonmorgen](https://kartevonmorgen.org/)
 - [wechange](https://wechange.de/map/)
-- about P2P production and commons: [p2pfoundation](https://p2pfoundation.net/)
 
 
 
