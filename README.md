@@ -2,6 +2,8 @@
 
 This is an open project for people, who not only imagine a better world, but who are willing to create such a world. 
 This world should meet all human needs while staying inside planetary boundaries. We are convinced that by creating such a new system, we can replace the old obsolete one, that since it started propagating from the west crushs the whole world.   
+> *“You never change things by fighting the existing reality. To
+change something, build a new model that makes the existing model obsolete.”* - Buckminster Fuller
 
 ## CHARACTERISTICS
 But what do we want to achieve with this project?
