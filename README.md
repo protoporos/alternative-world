@@ -6,10 +6,10 @@ This world should meet all human needs while staying inside planetary boundaries
 change something, build a new model that makes the existing model obsolete.”* - Buckminster Fuller
 
 ## CHARACTERISTICS
-But what do we want to achieve with this project?
-Let people live by the following principles:
+But what do we want to achieve with this project?  
+Let people live by the following principles and watch how a new system of production and exchange emerges:
 
-- **living in communities**: not only is it closer to our human needs but also, a more efficient use of resources. This prerequisite of sharing an hibitation results in a number of other things that define how life looks like in this alternative world:
+- **living in communities**: not only is it closer to our human needs but also, a more efficient use of resources. This prerequisite of sharing an hibitation and the creation of a whole new sphere of commons results in a number of other things that define how life looks like in this alternative world:
   - social intelligence: communication has to be better than in this world for it to work, since a lot of trust in one another is definitely necessary.
   - How to organise such a community is open for discussion :)
 - **independence of economic growth**: this community should drive whether or not the economic grows, which means it should have a certain degree of self-sufficiency.
