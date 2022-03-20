@@ -1,13 +1,13 @@
 # INTRODUCTION
 
-This is an open project for people, who not only imagine a better world, but who are willing to create such a world. 
+This is an open project for people, who not only imagine the end of capitalism, but who are willing to create a better world. 
 This world should meet all human needs while staying inside planetary boundaries. We are convinced that by creating such a new system, we can replace the old obsolete one, that since it started propagating from the west crushs the whole world.   
 > *“You never change things by fighting the existing reality. To
 change something, build a new model that makes the existing model obsolete.”* - Buckminster Fuller
 
 ## CHARACTERISTICS
 But what do we want to achieve with this project?  
-Let people live by the following principles and watch how a regenerative system of production and exchange emerges:
+Let people live by the following principles and watch how a regenerative system of production and exchange emerges that meets everyone's needs:
 
 - **living in communities**: not only is it closer to our human needs and enables security to one another, it is also a more efficient use of resources. This prerequisite of sharing an habitation and the creation of a whole new sphere of commons results in a number of other things that define how life looks like in this alternative world:
   - social intelligence: communication has to be better than in this world for it to work, since a lot of trust in one another is definitely necessary.
