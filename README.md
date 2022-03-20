@@ -28,7 +28,7 @@ You are on a very similar quest and want to grow the number of seeds that will f
 
 ## ROAD MAP
 
-1. First, [connect](plant-seed.md) with people and share ideas.
+1. First, [connect](plant-seed.md) with people and share ideas. <-we are here
 1. Prepare for creating new seed of such a world.
 1. Deploy [plan](DNA.md), go real!
 1. Built thriving community.
@@ -36,5 +36,5 @@ You are on a very similar quest and want to grow the number of seeds that will f
 
 ## REPO OVERVIEW
 
-The repository hosts a number of different files with different duties. The file [nodes.md](https://github.com/protoporos/alternative-world/blob/main/nodes.md) 
+The repository hosts a number of different files with different duties. The file [roots.md](https://github.com/protoporos/alternative-world/blob/main/roots.md) 
 lists nodes of such a system which already have been created by lovely people imagining a better world.  The markdown file named [Inspiration.md](Inspiration.md) lists a bunch of YouTube Videos that give an idea of what we want to create. The file [DNA.md](DNA.md) draws a picture of how such a world might be designed - economical, political and social. In [plant-seed.md](plant-seed.md) you can read how to grow the community behind such a idea, which is a crusial step for making it an actual reality.
