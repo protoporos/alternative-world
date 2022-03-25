@@ -20,11 +20,11 @@ Here are some very inspiring **individual stories** to dream about:
 - When even a family decides to live in such a world: [link](https://www.youtube.com/watch?v=rCRukvZE2Vk&ab_channel=HappenFilms)
 
 Bunch of **content creators** to have an even deeper look into that world:
-- Ever heard of Beau Miles? He has an appealing life philosophy and is besides being a prof a filmmaker; watch some of his world-view and gorgeous story-telling:
+- Ever heard of Beau Miles? He has an appealing life philosophy and is besides being a prof, a filmmaker; watch some of his world-view changing and gorgeous story-telling:
   - [A Tree a Minute: planting 1440 trees in a day](https://www.youtube.com/watch?v=AbA-hoIuHM4)
   - [Junk Office: Saving $10k by building it myself](https://www.youtube.com/watch?v=8QpFFB1QHto)
   
-- [Isabel Paige](https://www.youtube.com/channel/UCdCottK2mn8T7VOHleKCYCg) is a change liver and gifted content creator you definitly have to know.
+- [Isabel Paige](https://www.youtube.com/channel/UCdCottK2mn8T7VOHleKCYCg) is lving the change and gifted content creator you definitly have to know.
 
 - Another great content creator around this topic is Kirsten Dirksen, visit her [channel](https://www.youtube.com/channel/UCDsElQQt_gCZ9LgnW-7v-cQ) for more.
 
