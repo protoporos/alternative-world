@@ -40,6 +40,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 ## Share knowledge/projects/initiatives
 
 - repository of Extinction Rebellion, a [founder course](https://github.com/extinctionrebellion/docs/blob/master/SUMMARY.md)
+- how to organise protests, more in [activist handbook](https://www.activisthandbook.org/en/home)
 - **about P2P production and commons: [p2pfoundation](https://p2pfoundation.net/)**
 
 ## LAWS
