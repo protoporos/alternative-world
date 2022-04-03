@@ -31,6 +31,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - work on organic farms and get rewarded by a bed, healthy food and friendly people: [wwoof.net](https://wwoof.net/)
 - host and sleep on couches: [couchsurfing.com](https://www.couchsurfing.com/)
 - only when you're on a biketrip and look for a place to spend the night: [warmshowers.org](https://.warmshowers.org/)
+- this organisation helps to start a community housing: [syndikat.org](https://www.syndikat.org/); they have an interesting idea about financing!
 
 ### Living
 
@@ -42,6 +43,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - repository of Extinction Rebellion, a [founder course](https://github.com/extinctionrebellion/docs/blob/master/SUMMARY.md)
 - how to organise protests, more in [activist handbook](https://www.activisthandbook.org/en/home)
 - more about [non-violent action](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/)
+- another link to Projekt Kamp; they're acadamy side, where all the gained knowledge is published: (community.projectkamp.com)[https://community.projectkamp.com/academy/start/intro]
 - **about P2P production and commons: [p2pfoundation](https://p2pfoundation.net/)**
 
 ## LAWS
@@ -59,3 +61,4 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 #### Not yet analysed
 
 - from a different [github repo](https://github.com/ouisharelabs/food-dashboard#links)
+- https://e2h.totalism.org/e2h.php?_=alike#____The_Mietshx26@228x3Buser_Syndikat_x5BGermany__x7E100_projectsx5D
