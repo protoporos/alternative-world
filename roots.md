@@ -7,11 +7,16 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [**Europe**] [kartevonmorgen](https://kartevonmorgen.org/)
 - [**Europe**] [wechange](https://wechange.de/map/)
 
+## Share knowledge/projects/initiatives
+
+- **about P2P production and commons: [p2pfoundation](https://p2pfoundation.net/)**
+- **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
+
 ## TECH
 
 ### CLOTHING
 
--
+-An intro from [fixing.fashion](https://fixing.fashion/)
 
 ### Food production
 
@@ -71,17 +76,12 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - how to organise protests, more in [activist handbook](https://www.activisthandbook.org/en/home)
 - more about [non-violent action](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/)
 
-## Share knowledge/projects/initiatives
-
-- **about P2P production and commons: [p2pfoundation](https://p2pfoundation.net/)**
-- **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
-
 ## LAWS
 
 - OSS license that prohibits fossil fuel enterprises to use your work: [climate-strike license](https://github.com/climate-strike/license)
 - fighting for the 1.5 pathway in Germany: [GermanZero](https://www.germanzero.de/)
 
-### Not yet analysed
+## Not yet analysed
 
 - from a different [github repo](https://github.com/ouisharelabs/food-dashboard#links)
 - <https://e2h.totalism.org/e2h.php?_=alike#____The_Mietshx26@228x3Buser_Syndikat_x5BGermany__x7E100_projectsx5D>
