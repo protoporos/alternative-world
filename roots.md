@@ -4,8 +4,8 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 ## General
 
-- [kartevonmorgen](https://kartevonmorgen.org/)
-- [wechange](https://wechange.de/map/)
+- [**Europe**] [kartevonmorgen](https://kartevonmorgen.org/)
+- [**Europe**] [wechange](https://wechange.de/map/)
 
 ## TECH
 
@@ -16,7 +16,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 ### Food production
 
 - get connected with your local farms: [openfoodnetwork.de](https://openfoodnetwork.de/)
-- free food from trees and shrubs [mundraub](https://mundraub.org/); site gives possibility to organize
+- [**Europe**] free food from trees and shrubs [mundraub](https://mundraub.org/); site gives possibility to organize
 - Hydropondics a [repo](https://github.com/rhagman/sustainable-green-plants)
 
 ### Water
@@ -32,11 +32,15 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - working with plastics and share what you learn on the [community platform](https://community.preciousplastic.com/how-to) of preciousplastic
 (<https://www.reparatur-initiativen.de/reparatur-termine>)
 - [appropedia](https://www.appropedia.org/Category:Content) offers also a lot of tech related content
+- a list of mutual aid groups is missing!
 
 ## Connect
 
-- find next repair café, only in Germany: [reparatur-initiativen.de]
+- [**Germany**] find next repair café, only in Germany: [reparatur-initiativen.de](www.reparatur-initiativen.de)
 - connect with others on [climateconnect.earth](https://climateconnect.earth/de); here is their [repository on github](https://github.com/climateconnect/climateconnect)
+- **[solarpunk reddit community](https://www.reddit.com/r/solarpunk/)**
+- [**Europe**] find all sorts of organisations on [kartevonmorgen.org](https://kartevonmorgen.org/)
+- [**Germany**] another map with a lot of projects with exciting ideas: [wechange](https://wechange.de/map/)
 
 ## Housing
 
@@ -50,11 +54,12 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - host and sleep on couches: [couchsurfing.com](https://www.couchsurfing.com/)
 - only when you're on a biketrip and look for a place to spend the night: [warmshowers.org](https://.warmshowers.org/)
 
-### Communities
+### Lists of communities
 
-- this organisation helps to start a community housing: [syndikat.org](https://www.syndikat.org/); they have an interesting idea about financing!
-- [ecovillage.org](https://ecovillage.org/)
-- [gen-deutschland](https://gen-deutschland.de/was-wir-wollen/)
+- [**Germany**] this organisation helps to start a community housing: [syndikat.org](https://www.syndikat.org/); they have an interesting idea about financing!
+- [**World**] [ecovillage.org](https://ecovillage.org/)
+- [**Germany**] [gen-deutschland](https://gen-deutschland.de/was-wir-wollen/)
+- [**US/Canada**] [strongtowns.org](https://actionlab.strongtowns.org/hc/en-us/articles/360054839451-Local-Conversations-Map)
 
 ## Financing
 
