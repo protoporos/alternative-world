@@ -16,22 +16,23 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 ### CLOTHING
 
-- An intro from [fixing.fashion](https://fixing.fashion/)
+-An intro from [fixing.fashion](https://fixing.fashion/)
 
 ### Food production
 
-- get connected with your local farms: [openfoodnetwork.de](https://openfoodnetwork.de/)
-- [**US**] [localharvest.org](https://www.localharvest.org/) lets you find farms and CSAs
-- [**Europe**] free food from trees and shrubs [mundraub](https://mundraub.org/); site gives possibility to organize
 - [**World**] [fallingfruit.org](https://fallingfruit.org/)
 - [**World**] [endlessorchard](https://endlessorchard.com/map/) lets you find fruit trees
-- Hydropondics a [repo](https://github.com/rhagman/sustainable-green-plants)
-- [**Germany**] [kartoffelkombinat.de](https://www.kartoffelkombinat.de/) community-oriented structure for regional, seasonal food supply.
+- [**US**] [localharvest.org](https://www.localharvest.org/) lets you find farms and CSAs
 - [**US**] [native platn finder](https://www.nwf.org/NativePlantFinder/) find native plants in your area
+- [**Europe**] free food from trees and shrubs [mundraub](https://mundraub.org/); site gives possibility to organize.
+- [**Germany**] [openfoodnetwork.de](https://openfoodnetwork.de/map): get connected with your local farms!
+- [**Germany**] [kartoffelkombinat.de](https://www.kartoffelkombinat.de/) community-oriented structure for regional, seasonal food supply.
+- [**Germany**] [urbane-gaerten.de](https://urbane-gaerten.de/urbane-gaerten/gaerten-im-ueberblick): find urban gardens close to you!
 
 #### OS-Food-Networks
 
 - [freepermaculture.com](https://www.freepermaculture.com/) do a full free permaculture course
+- Hydropondics a [GitHub repository](https://github.com/rhagman/sustainable-green-plants)
 
 ### Water
 
@@ -68,12 +69,12 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 ## Connect
 
-- [**Germany**] find next repair café, only in Germany: [reparatur-initiativen.de](www.reparatur-initiativen.de)
+- [**Germany**] [reparatur-initiativen.de](www.reparatur-initiativen.de): find next repair café.
 - [**World**] [repaircafe.org](https://www.repaircafe.org/en/visit/) all about repair cafes
 - connect with others on [climateconnect.earth](https://climateconnect.earth/de); here is their [repository on github](https://github.com/climateconnect/climateconnect)
 - **[solarpunk reddit community](https://www.reddit.com/r/solarpunk/)**
 - [**Europe**] find all sorts of organisations on [kartevonmorgen.org](https://kartevonmorgen.org/)
-- [**Germany**] another map with a lot of projects with exciting ideas: [wechange](https://wechange.de/map/)
+- [**Germany**] [wechange.de](https://wechange.de) hosts another [map](https://wechange.de/map/) with a lot of projects with exciting ideas
 
 ## Housing
 
@@ -105,9 +106,10 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - repository of Extinction Rebellion, a [founder course](https://github.com/extinctionrebellion/docs/blob/master/SUMMARY.md)
 - how to organise protests, more in [activist handbook](https://www.activisthandbook.org/en/home)
 - more about [non-violent action](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/)
-- [**US**] [sunrisemovement.org](https://www.sunrisemovement.org/) The climate revolutionaries
 - [food not lawns](https://www.foodnotlawns.com/) worth checking out. Get inspired and create your own local chapter
 - [foodnotbombs.net](http://foodnotbombs.net/new_site/index.php) find your nearest chapter or create one. [map](https://www.google.com/maps/d/viewer?mid=1KVbOaPBP2Xh1zk59DS9nI-BjjYnrwtwD&hl=en_US&ll=23.89273390485849%2C-54.36463960625008&z=2)
+- [**US**] [THE CLIMATE MOBILIZATION](https://www.theclimatemobilization.org/): mobilizing the whole society to prevent climate catastrophe.
+- [**US**] [sunrisemovement.org](https://www.sunrisemovement.org/) The climate revolutionaries
 
 ## LAWS
 
