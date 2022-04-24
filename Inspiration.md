@@ -6,6 +6,7 @@
 Thought **utopias** don't work and are only something for dreamers? Than get engaged in this list of working communes around the world:
   - [Tamera - Taste of a New Culture - Documentary about Tamera Peace Research Center in Portugal](https://www.youtube.com/watch?v=IryCO3MvAiQ)
   - Ithaca EcoVillage a [full tour by Flock](https://www.youtube.com/watch?v=n-uH36w9xg8)
+  - Another intentional community: [7 friends built restoration ecovillage. Outcome 50 years on](https://www.youtube.com/watch?v=QcbUN_1lvAA&ab_channel=KirstenDirksen)
   - Project Kamp is a utopie in Portugal around One Army. They have a whole [YouTube channel](https://www.youtube.com/channel/UCcGXEidw0qjNdq7Gii8gHgg) with a lot of videos, favourites:
     - [#35 How we build a pizza oven from clay (no cement)](https://www.youtube.com/watch?v=_SPIOpSwui0)
 
