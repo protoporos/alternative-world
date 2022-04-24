@@ -5,6 +5,8 @@ This world should meet all human needs while staying inside planetary boundaries
 > *“You never change things by fighting the existing reality. To
 change something, build a new model that makes the existing model obsolete.”* - Buckminster Fuller
 
+[//]: # (Problems are global warming, ocean acidification, mass extinction, soil degragation)
+
 ## CHARACTERISTICS
 
 But what do we want to achieve with this project?  

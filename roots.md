@@ -21,8 +21,17 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 ### Food production
 
 - get connected with your local farms: [openfoodnetwork.de](https://openfoodnetwork.de/)
+- [**US**] [localharvest.org](https://www.localharvest.org/) lets you find farms and CSAs
 - [**Europe**] free food from trees and shrubs [mundraub](https://mundraub.org/); site gives possibility to organize
+- [**World**] [fallingfruit.org](https://fallingfruit.org/)
+- [**World**] [endlessorchard](https://endlessorchard.com/map/) lets you find fruit trees
 - Hydropondics a [repo](https://github.com/rhagman/sustainable-green-plants)
+- [**Germany**] [kartoffelkombinat.de](https://www.kartoffelkombinat.de/) community-oriented structure for regional, seasonal food supply.
+- [**US**] [native platn finder](https://www.nwf.org/NativePlantFinder/) find native plants in your area
+
+#### OS-Food-Networks
+
+- [freepermaculture.com](https://www.freepermaculture.com/) do a full free permaculture course
 
 ### Water
 
@@ -35,13 +44,32 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [instructables](https://www.instructables.com/howto/): a community that creates guides on how to make things.
 - the [open hardware observatory](https://en.oho.wiki/wiki/Home)
 - working with plastics and share what you learn on the [community platform](https://community.preciousplastic.com/how-to) of preciousplastic
+- [Working Group on Development Techniques (WOT)](https://www.wot.utwente.nl/en/about-the-wot): developing technology for use in developing countries
+- [**Germany**] [werkstatt-lastenrad](https://www.werkstatt-lastenrad.de/index.php?title=Hauptseite) construction plans on building cargo bikes
 (<https://www.reparatur-initiativen.de/reparatur-termine>)
 - [appropedia](https://www.appropedia.org/Category:Content) offers also a lot of tech related content
 - a list of mutual aid groups is missing!
+- [opensourceecology.org](https://www.opensourceecology.org/) open source blueprints for civilization.
+
+### Sharing Tech
+
+- [**Swiss**] [pumpipumpe](https://pumpipumpe.ch/about/) stick stickers on your mailbox, and show what you share
+- [**World**] [localtools.org](https://localtools.org/find/) find spots where you can share tools
+- [**Germany**] [frent.me](https://www.frent.me/) Share stuff
+
+### Makerspaces
+
+- [**Germany/Austria**] [maker-faire.de](https://maker-faire.de/makerspaces/) map of makerspaces
+- [**World**] [hackerspaces.org](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) map with planned and existing Hacker Spaces worldwide.
+- [**World**] [Fablabs](http://www.makery.info/en/map-labs/) a map
+- [**World**] [fablabs.io](https://www.fablabs.io/labs/map)
+- [**World**] [creativespaceexplorer](http://creativespaceexplorer.org/)
+- [**World**] [makertour.fr](https://www.makertour.fr/) help make the world a better place
 
 ## Connect
 
 - [**Germany**] find next repair café, only in Germany: [reparatur-initiativen.de](www.reparatur-initiativen.de)
+- [**World**] [repaircafe.org](https://www.repaircafe.org/en/visit/) all about repair cafes
 - connect with others on [climateconnect.earth](https://climateconnect.earth/de); here is their [repository on github](https://github.com/climateconnect/climateconnect)
 - **[solarpunk reddit community](https://www.reddit.com/r/solarpunk/)**
 - [**Europe**] find all sorts of organisations on [kartevonmorgen.org](https://kartevonmorgen.org/)
@@ -51,7 +79,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 ### Guides from communities
 
-- another link to Projekt Kamp; they're acadamy side, where all the gained knowledge is published: [community.projectkamp.com](https://community.projectkamp.com/academy/start/intro)
+- another link to Projekt Kamp; they're acadamy side, where all the gained knowledge is published: [community.projectkamp.com](https://community.projectkamp.com/academy/start/intro); and their research platform: [community.projectkamp.com/research](https://community.projectkamp.com/research)
 
 ### Accomodation Networks
 
@@ -65,6 +93,8 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [**World**] [ecovillage.org](https://ecovillage.org/)
 - [**Germany**] [gen-deutschland](https://gen-deutschland.de/was-wir-wollen/)
 - [**US/Canada**] [strongtowns.org](https://actionlab.strongtowns.org/hc/en-us/articles/360054839451-Local-Conversations-Map)
+- [**World**] [Foundation for Intentional Community](https://www.ic.org/)
+- [**World**] [numundo](https://numundo.org/centers?lang=en) too offers a world wide map for eco-villages
 
 ## Financing
 
@@ -75,6 +105,9 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - repository of Extinction Rebellion, a [founder course](https://github.com/extinctionrebellion/docs/blob/master/SUMMARY.md)
 - how to organise protests, more in [activist handbook](https://www.activisthandbook.org/en/home)
 - more about [non-violent action](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/)
+- [**US**] [sunrisemovement.org](https://www.sunrisemovement.org/) The climate revolutionaries
+- [food not lawns](https://www.foodnotlawns.com/) worth checking out. Get inspired and create your own local chapter
+- [foodnotbombs.net](http://foodnotbombs.net/new_site/index.php) find your nearest chapter or create one. [map](https://www.google.com/maps/d/viewer?mid=1KVbOaPBP2Xh1zk59DS9nI-BjjYnrwtwD&hl=en_US&ll=23.89273390485849%2C-54.36463960625008&z=2)
 
 ## LAWS
 
@@ -85,3 +118,4 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 - from a different [github repo](https://github.com/ouisharelabs/food-dashboard#links)
 - <https://e2h.totalism.org/e2h.php?_=alike#____The_Mietshx26@228x3Buser_Syndikat_x5BGermany__x7E100_projectsx5D>
+- from [solarpunk reddit forum](https://www.reddit.com/r/solarpunk/wiki/projects#wiki_maps_of_projects_and_resources_around_the_world)
