@@ -16,7 +16,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 ### CLOTHING
 
--An intro from [fixing.fashion](https://fixing.fashion/)
+- An intro from [fixing.fashion](https://fixing.fashion/)
 
 ### Food production
 
