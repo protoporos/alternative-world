@@ -12,7 +12,7 @@ Thought **utopias** don't work and are only something for dreamers? Than get eng
 
 Having a stable **food** source is the basis of all human life, but how would you do that with all the tara of sustainability and ecologicaly? Here:
   - [Mark and Jen Shepard's perennial farm in Wisconsin](https://www.youtube.com/watch?v=sRPP4Ilpxso)
-  - 
+  - [A Regenerative Secret - Kiss The Ground](https://www.youtube.com/watch?v=n2W8dKdgGhc) regenerative agriculture
 
 Here are some very inspiring **individual stories** to dream about:
 - Interested in another lifestyle? Here is a woman from Iceland who creates beautiful clothing from sheep fur which would otherwise be wasted. Watch it on [Arte's YouTube channel](https://www.youtube.com/watch?v=WLOU9PeuKvI)
