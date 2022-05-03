@@ -1,3 +1,11 @@
+# Reads
+- [Community, Democracy, and Mutual Aid](https://theanarchistlibrary.org/library/symbiosis-research-collective-community-democracy-and-mutual-aid): *"Our aim in this essay is to channel our struggles against oppression and domination into a strategic approach toward building real utopias— \[...\] our proposal is to organize practical community institutions of participatory democracy and mutual aid that can take root, grow, and gradually supplant the institutions that now rule ordinary people’s lives."*
+- Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist;  [Kate Raworth](https://en.wikipedia.org/wiki/Kate_Raworth)
+- A Small Farm Future: Making the Case for a Society Built Around Local Economies, Self-Provisioning, Agricultural Diversity, and a Shared Earth
+by Chris Smaje
+- Another Now: Dispatches form an Alternative Present by world-famous economist Yanis Varoufakis.
+- The Third Industrial Revolution: How Lateral Power is Transforming Energy, the Economy, and the World by Jeremy Rifkin
+
 # Inspiration
 
 - [HappenFilms a documentary](https://www.youtube.com/watch?v=gq9sg397ee8&list=WL&index=63&ab_channel=HappenFilms)
