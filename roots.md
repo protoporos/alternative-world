@@ -108,8 +108,10 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - more about [non-violent action](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/)
 - [food not lawns](https://www.foodnotlawns.com/) worth checking out. Get inspired and create your own local chapter
 - [foodnotbombs.net](http://foodnotbombs.net/new_site/index.php) find your nearest chapter or create one. [map](https://www.google.com/maps/d/viewer?mid=1KVbOaPBP2Xh1zk59DS9nI-BjjYnrwtwD&hl=en_US&ll=23.89273390485849%2C-54.36463960625008&z=2)
+- [**Germany**] [Letzte Generation](https://letztegeneration.de/): just stop oil!
 - [**US**] [THE CLIMATE MOBILIZATION](https://www.theclimatemobilization.org/): mobilizing the whole society to prevent climate catastrophe.
 - [**US**] [sunrisemovement.org](https://www.sunrisemovement.org/) The climate revolutionaries
+- [**US**] [black socialists](https://blacksocialists.us/): Building a new world in the shell of the old, and letting that world speak for itself...
 
 ## LAWS
 
