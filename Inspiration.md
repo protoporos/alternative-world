@@ -5,6 +5,7 @@
 by Chris Smaje
 - Another Now: Dispatches form an Alternative Present by world-famous economist Yanis Varoufakis.
 - The Third Industrial Revolution: How Lateral Power is Transforming Energy, the Economy, and the World by Jeremy Rifkin
+- [Autonomous Earth Federation](https://wiki.sunbeam.city/doku.php?id=autonomous_earth_federation)
 
 ## Blogs
 
