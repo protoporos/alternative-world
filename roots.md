@@ -11,7 +11,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 - **about P2P production and commons: [p2pfoundation](https://p2pfoundation.net/)**
 - **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
-- **[A Solarpunks collective wiki](https://wiki.sunbeam.city/doku.php?id=start)**
+- **[A Solarpunks collectiv's wiki](https://wiki.sunbeam.city/doku.php?id=start)**
 
 ## TECH
 
@@ -76,6 +76,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - **[solarpunk reddit community](https://www.reddit.com/r/solarpunk/)**
 - [**Europe**] find all sorts of organisations on [kartevonmorgen.org](https://kartevonmorgen.org/)
 - [**Germany**] [wechange.de](https://wechange.de) hosts another [map](https://wechange.de/map/) with a lot of projects with exciting ideas
+- [**US**] [community weatlh](https://community-wealth.org/): an organisation 
 
 ## Housing
 
