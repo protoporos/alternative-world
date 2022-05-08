@@ -34,6 +34,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 - [freepermaculture.com](https://www.freepermaculture.com/) do a full free permaculture course
 - Hydropondics a [GitHub repository](https://github.com/rhagman/sustainable-green-plants)
+- [farmhack.org](https://farmhack.org/) a platform where farmers share blueprints for their open developed tools.
 
 ### Water
 
