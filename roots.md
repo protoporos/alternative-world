@@ -11,6 +11,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 - **about P2P production and commons: [p2pfoundation](https://p2pfoundation.net/)**
 - **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
+- **[A Solarpunks collective wiki](https://wiki.sunbeam.city/doku.php?id=start)**
 
 ## TECH
 
@@ -41,7 +42,6 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 ### OS-TECH-Networks
 
 - **all about [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) a git hub list**
-- **[A Solarpunks collective wiki](https://wiki.sunbeam.city/doku.php?id=start)**
 - a repare forum for all kinds of tech: [ifixit](https://www.ifixit.com/)
 - [instructables](https://www.instructables.com/howto/): a community that creates guides on how to make things.
 - the [open hardware observatory](https://en.oho.wiki/wiki/Home)
