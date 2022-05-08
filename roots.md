@@ -51,8 +51,9 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [appropedia](https://www.appropedia.org/Category:Content) offers also a lot of tech related content
 - a list of mutual aid groups is missing!
 - [opensourceecology.org](https://www.opensourceecology.org/) open source blueprints for civilization.
+- [biofabforum.org](https://biofabforum.org/): A community for knowledge exchange and experimentation around the manufacturing with biological materials.
 
-### Sharing Tech
+### Sharing Tools
 
 - [**Swiss**] [pumpipumpe](https://pumpipumpe.ch/about/) stick stickers on your mailbox, and show what you share
 - [**World**] [localtools.org](https://localtools.org/find/) find spots where you can share tools
@@ -110,6 +111,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [foodnotbombs.net](http://foodnotbombs.net/new_site/index.php) find your nearest chapter or create one. [map](https://www.google.com/maps/d/viewer?mid=1KVbOaPBP2Xh1zk59DS9nI-BjjYnrwtwD&hl=en_US&ll=23.89273390485849%2C-54.36463960625008&z=2)
 - [**US**] [THE CLIMATE MOBILIZATION](https://www.theclimatemobilization.org/): mobilizing the whole society to prevent climate catastrophe.
 - [**US**] [sunrisemovement.org](https://www.sunrisemovement.org/) The climate revolutionaries
+- [**UK**] [juststopoil.org](https://juststopoil.org/) just stop oil and gas
 
 ## LAWS
 
