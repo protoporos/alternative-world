@@ -1,3 +1,17 @@
+# Reads
+- [Community, Democracy, and Mutual Aid](https://theanarchistlibrary.org/library/symbiosis-research-collective-community-democracy-and-mutual-aid): *"Our aim in this essay is to channel our struggles against oppression and domination into a strategic approach toward building real utopias— \[...\] our proposal is to organize practical community institutions of participatory democracy and mutual aid that can take root, grow, and gradually supplant the institutions that now rule ordinary people’s lives."*
+- Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist;  [Kate Raworth](https://en.wikipedia.org/wiki/Kate_Raworth)
+- A Small Farm Future: Making the Case for a Society Built Around Local Economies, Self-Provisioning, Agricultural Diversity, and a Shared Earth
+by Chris Smaje
+- Another Now: Dispatches form an Alternative Present by world-famous economist Yanis Varoufakis.
+- The Third Industrial Revolution: How Lateral Power is Transforming Energy, the Economy, and the World by Jeremy Rifkin
+- [Autonomous Earth Federation](https://wiki.sunbeam.city/doku.php?id=autonomous_earth_federation)
+
+## Blogs
+
+- [**US**] [The next system project](https://thenextsystem.org/): initiative to adress systematic problems.
+- 
+
 # Inspiration
 
 - [HappenFilms a documentary](https://www.youtube.com/watch?v=gq9sg397ee8&list=WL&index=63&ab_channel=HappenFilms)
@@ -6,12 +20,13 @@
 Thought **utopias** don't work and are only something for dreamers? Than get engaged in this list of working communes around the world:
   - [Tamera - Taste of a New Culture - Documentary about Tamera Peace Research Center in Portugal](https://www.youtube.com/watch?v=IryCO3MvAiQ)
   - Ithaca EcoVillage a [full tour by Flock](https://www.youtube.com/watch?v=n-uH36w9xg8)
+  - Another intentional community: [7 friends built restoration ecovillage. Outcome 50 years on](https://www.youtube.com/watch?v=QcbUN_1lvAA&ab_channel=KirstenDirksen)
   - Project Kamp is a utopie in Portugal around One Army. They have a whole [YouTube channel](https://www.youtube.com/channel/UCcGXEidw0qjNdq7Gii8gHgg) with a lot of videos, favourites:
     - [#35 How we build a pizza oven from clay (no cement)](https://www.youtube.com/watch?v=_SPIOpSwui0)
 
 Having a stable **food** source is the basis of all human life, but how would you do that with all the tara of sustainability and ecologicaly? Here:
   - [Mark and Jen Shepard's perennial farm in Wisconsin](https://www.youtube.com/watch?v=sRPP4Ilpxso)
-  - 
+  - [A Regenerative Secret - Kiss The Ground](https://www.youtube.com/watch?v=n2W8dKdgGhc) regenerative agriculture
 
 Here are some very inspiring **individual stories** to dream about:
 - Interested in another lifestyle? Here is a woman from Iceland who creates beautiful clothing from sheep fur which would otherwise be wasted. Watch it on [Arte's YouTube channel](https://www.youtube.com/watch?v=WLOU9PeuKvI)
