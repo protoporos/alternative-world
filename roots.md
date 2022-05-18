@@ -79,6 +79,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [**Europe**] find all sorts of organisations on [kartevonmorgen.org](https://kartevonmorgen.org/)
 - [**Germany**] [wechange.de](https://wechange.de) hosts another [map](https://wechange.de/map/) with a lot of projects with exciting ideas
 - [**US**] [community weatlh](https://community-wealth.org/): an organisation providing knowledge around building community.
+- [**World**] [trustroots.org](https://www.trustroots.org/): We want a world that encourages trust, adventure and intercultural connections. Our willingness to help each other is universal. 
 
 ## Housing
 
@@ -86,11 +87,12 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 - another link to Projekt Kamp; they're acadamy side, where all the gained knowledge is published: [community.projectkamp.com](https://community.projectkamp.com/academy/start/intro); and their research platform: [community.projectkamp.com/research](https://community.projectkamp.com/research)
 
-### Accomodation Networks
+### Accomodation Network
 
 - work on organic farms and get rewarded by a bed, healthy food and friendly people: [wwoof.net](https://wwoof.net/)
 - host and sleep on couches: [couchsurfing.com](https://www.couchsurfing.com/)
 - only when you're on a biketrip and look for a place to spend the night: [warmshowers.org](https://.warmshowers.org/)
+- [trustroots.org](https://www.trustroots.org/): find people to share with.
 
 ### Lists of communities
 
@@ -117,6 +119,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [**US**] [sunrisemovement.org](https://www.sunrisemovement.org/) The climate revolutionaries
 - [**UK**] [juststopoil.org](https://juststopoil.org/) just stop oil and gas
 - [**US**] [black socialists](https://blacksocialists.us/): Building a new world in the shell of the old, and letting that world speak for itself...
+- [**World**] [TROM](https://www.tromsite.com/) organisation advocating sharing economy or rather trade free world 
 
 ## LAWS
 
