@@ -9,7 +9,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 ## Share knowledge/projects/initiatives
 
-- **about P2P production and commons: [p2pfoundation](https://p2pfoundation.net/)**
+- **about P2P production and commons: [p2pfoundation](https://wiki.p2pfoundation.net/)**
 - **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
 - **[A Solarpunks collectiv's wiki](https://wiki.sunbeam.city/doku.php?id=start)**
 
