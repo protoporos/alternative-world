@@ -12,6 +12,8 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - **about P2P production and commons: [p2pfoundation](https://wiki.p2pfoundation.net/)**
 - **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
 - **[A Solarpunks collectiv's wiki](https://wiki.sunbeam.city/doku.php?id=start)**
+- [sproutdistro](https://www.sproutdistro.com/): anarchist zine dirstibuter
+- [theanarchistlibrary.org](https://theanarchistlibrary.org/stats/popular)
 
 ## TECH
 
