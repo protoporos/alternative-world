@@ -127,7 +127,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 ## LAWS
 
 - OSS license that prohibits fossil fuel enterprises to use your work: [climate-strike license](https://github.com/climate-strike/license)
-- fighting for the 1.5 pathway in Germany: [GermanZero](https://www.germanzero.de/)
+- [**Germany**] [GermanZero](https://www.germanzero.de/):fighting for the 1.5 pathway in Germany.
 
 ## Not yet analysed
 
