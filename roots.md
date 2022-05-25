@@ -14,6 +14,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - **[A Solarpunks collectiv's wiki](https://wiki.sunbeam.city/doku.php?id=start)**
 - [sproutdistro](https://www.sproutdistro.com/): anarchist zine dirstibuter
 - [theanarchistlibrary.org](https://theanarchistlibrary.org/stats/popular)
+- [sci-hub](https://sci-hub.hkvisa.net/): free access to research papers
 
 ## TECH
 
