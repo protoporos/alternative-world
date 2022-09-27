@@ -127,6 +127,10 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [**US**] [black socialists](https://blacksocialists.us/): Building a new world in the shell of the old, and letting that world speak for itself...
 - [**World**] [TROM](https://www.tromsite.com/) organisation advocating sharing economy or rather trade free world 
 
+### Resources
+
+- [how to start groups](https://theanarchistlibrary.org/library/andrew-flood-a-practical-guide-to-anarchist-organisation#toc68)
+
 ## LAWS
 
 - OSS license that prohibits fossil fuel enterprises to use your work: [climate-strike license](https://github.com/climate-strike/license)
