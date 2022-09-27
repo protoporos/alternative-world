@@ -7,7 +7,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [**Europe**] [kartevonmorgen](https://kartevonmorgen.org/)
 - [**Europe**] [wechange](https://wechange.de/map/)
 
-## Share knowledge/projects/initiatives
+### Share knowledge/projects/initiatives
 
 - **about P2P production and commons: [p2pfoundation](https://wiki.p2pfoundation.net/)**
 - **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
@@ -16,7 +16,6 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [theanarchistlibrary.org](https://theanarchistlibrary.org/stats/popular)
 - [The Communalist Library](https://communalistlibrary.carrd.co/)
 - [sci-hub](https://sci-hub.hkvisa.net/): free access to research papers
-
 - [wikipedia.org](https://www.wikipedia.org/)
 - [openstreetmaps.org](https://www.openstreetmap.org/)
 
@@ -24,7 +23,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 ### CLOTHING
 
--An intro from [fixing.fashion](https://fixing.fashion/)
+- An intro from [fixing.fashion](https://fixing.fashion/)
 
 ### Food production
 
