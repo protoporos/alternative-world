@@ -17,6 +17,9 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [The Communalist Library](https://communalistlibrary.carrd.co/)
 - [sci-hub](https://sci-hub.hkvisa.net/): free access to research papers
 
+- [wikipedia.org](https://www.wikipedia.org/)
+- [openstreetmaps.org](https://www.openstreetmap.org/)
+
 ## TECH
 
 ### CLOTHING
