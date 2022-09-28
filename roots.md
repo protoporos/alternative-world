@@ -121,6 +121,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [food not lawns](https://www.foodnotlawns.com/) worth checking out. Get inspired and create your own local chapter
 - [foodnotbombs.net](http://foodnotbombs.net/new_site/index.php) find your nearest chapter or create one. [map](https://www.google.com/maps/d/viewer?mid=1KVbOaPBP2Xh1zk59DS9nI-BjjYnrwtwD&hl=en_US&ll=23.89273390485849%2C-54.36463960625008&z=2)
 - [**Germany**] [Letzte Generation](https://letztegeneration.de/): just stop oil!
+- [**Germany/Dresden**] [Königsbrücker muss leben!](http://koenigsbruecker-muss-leben.de/home.php)
 - [**US**] [THE CLIMATE MOBILIZATION](https://www.theclimatemobilization.org/): mobilizing the whole society to prevent climate catastrophe.
 - [**US**] [sunrisemovement.org](https://www.sunrisemovement.org/) The climate revolutionaries
 - [**UK**] [juststopoil.org](https://juststopoil.org/) just stop oil and gas
