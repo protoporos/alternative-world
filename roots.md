@@ -132,6 +132,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 ### Resources
 
 - [how to start groups](https://theanarchistlibrary.org/library/andrew-flood-a-practical-guide-to-anarchist-organisation#toc68)
+- [challenges of organising](https://guerrillafoundation.org/eight-common-challenges-to-community-organising-in-europe/)
 
 ## LAWS
 
