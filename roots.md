@@ -6,7 +6,6 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 - [**Europe**] [kartevonmorgen](https://kartevonmorgen.org/)
 - [**Europe**] [wechange](https://wechange.de/map/)
-- [Solidarity Economies](https://web.archive.org/web/20220121045848/https://solidarityeconomyprinciples.org/)
 
 ### Share knowledge/projects/initiatives
 
