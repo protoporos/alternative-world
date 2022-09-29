@@ -6,6 +6,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 - [**Europe**] [kartevonmorgen](https://kartevonmorgen.org/)
 - [**Europe**] [wechange](https://wechange.de/map/)
+- [**US/NYC**] [NYC Solidarity Economies](http://solidaritynyc.org/)
 
 ### Share knowledge/projects/initiatives
 
@@ -19,9 +20,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [wikipedia.org](https://www.wikipedia.org/)
 - [openstreetmaps.org](https://www.openstreetmap.org/)
 
-## ECONOMY
-
-- [**US/NYC**] [NYC Solidarity Economies](http://solidaritynyc.org/)
+## TECH
 
 ### CLOTHING
 
