@@ -12,6 +12,8 @@ by Chris Smaje
 
 - [**US**] [The next system project](https://thenextsystem.org/): initiative to adress systematic problems.
 - [**US**] [Why socialism?](https://monthlyreview.org/2009/05/01/why-socialism)
+- [Solidarity Economies](https://web.archive.org/web/20220121045848/https://solidarityeconomyprinciples.org/)
+
 
 # Inspiration
 
