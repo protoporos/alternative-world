@@ -19,6 +19,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [sci-hub](https://sci-hub.hkvisa.net/): free access to research papers
 - [wikipedia.org](https://www.wikipedia.org/)
 - [openstreetmaps.org](https://www.openstreetmap.org/)
+- Tools for organizing: [RISEUP.NET](riseup.net)
 
 ## TECH
 
