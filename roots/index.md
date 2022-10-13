@@ -135,6 +135,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 - [how to start groups](https://theanarchistlibrary.org/library/andrew-flood-a-practical-guide-to-anarchist-organisation#toc68)
 - [challenges of organising](https://guerrillafoundation.org/eight-common-challenges-to-community-organising-in-europe/)
+- - [System Change Course](https://www.youtube.com/watch?v=ZS5y--ODWeU&list=PLsJWgOB5mIMCAD33pve6_HyfuGTlCTQgd&ab_channel=SystemsInnovation) on YouTube
 
 ## LAWS
 
