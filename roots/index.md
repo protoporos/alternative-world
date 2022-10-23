@@ -63,6 +63,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - a list of mutual aid groups is missing!
 - [opensourceecology.org](https://www.opensourceecology.org/) open source blueprints for civilization.
 - [biofabforum.org](https://biofabforum.org/): A community for knowledge exchange and experimentation around the manufacturing with biological materials.
+- [systemli.org](https://www.systemli.org/friends/): list of tech collectives providing digital services
 
 ### Sharing Tools
 
