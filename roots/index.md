@@ -106,6 +106,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 ### Lists of communities
 
+- [**Germany**] an roof organisation for intentional communities in Germany: [kommuja.de](https://www.kommuja.de/)
 - [**Germany**] this organisation helps to start a community housing: [syndikat.org](https://www.syndikat.org/); they have an interesting idea about financing!
 - [**World**] [ecovillage.org](https://ecovillage.org/)
 - [**Germany**] [gen-deutschland](https://gen-deutschland.de/was-wir-wollen/)
