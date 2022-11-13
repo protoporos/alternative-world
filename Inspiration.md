@@ -21,6 +21,8 @@ by Chris Smaje
 
 
 Thought **utopias** don't work and are only something for dreamers? Than get engaged in this list of working communes around the world:
+  - [Documentary about Utopias around Europe]: major lesson, there is no final plan on how a community should look like, it's always a process of trail and error, of testing out new things and getting rid of old ones.
+    - feautured in this docu is Calafou a project in Spain you should look into.
   - [Tamera - Taste of a New Culture - Documentary about Tamera Peace Research Center in Portugal](https://www.youtube.com/watch?v=IryCO3MvAiQ)
   - Ithaca EcoVillage a [full tour by Flock](https://www.youtube.com/watch?v=n-uH36w9xg8)
   - Another intentional community: [7 friends built restoration ecovillage. Outcome 50 years on](https://www.youtube.com/watch?v=QcbUN_1lvAA&ab_channel=KirstenDirksen)
