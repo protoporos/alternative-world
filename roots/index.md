@@ -71,6 +71,11 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [**World**] [localtools.org](https://localtools.org/find/) find spots where you can share tools
 - [**Germany**] [frent.me](https://www.frent.me/) Share stuff
 
+### Sharing Digital-Tools
+
+- [anarchaserver](http://anarchaserver.org/): pastebin, calender and survey tool and tool to send encrypted files
+- [riseup.net](https://riseup.net/)
+
 ### Makerspaces
 
 - [**Germany/Austria**] [maker-faire.de](https://maker-faire.de/makerspaces/) map of makerspaces
