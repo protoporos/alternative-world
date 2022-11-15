@@ -151,6 +151,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 ## Not yet analysed
 
+- partnerts of network n [german]: [website](https://netzwerk-n.org/partnerorganisationen-und-mitglieder/)
 - from a different [github repo](https://github.com/ouisharelabs/food-dashboard#links)
 - <https://e2h.totalism.org/e2h.php?_=alike#____The_Mietshx26@228x3Buser_Syndikat_x5BGermany__x7E100_projectsx5D>
 - from [solarpunk reddit forum](https://www.reddit.com/r/solarpunk/wiki/projects#wiki_maps_of_projects_and_resources_around_the_world)
