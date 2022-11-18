@@ -12,6 +12,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 - **about P2P production and commons: [p2pfoundation](https://wiki.p2pfoundation.net/)**
 - **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
+- [goexplorer.org](https://goexplorer.org/): find sustainable solutions for SDGs
 - **[A Solarpunks collectiv's wiki](https://wiki.sunbeam.city/doku.php?id=start)**
 - [sproutdistro](https://www.sproutdistro.com/): anarchist zine dirstibuter
 - [theanarchistlibrary.org](https://theanarchistlibrary.org/stats/popular)
@@ -19,7 +20,8 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [sci-hub](https://sci-hub.hkvisa.net/): free access to research papers
 - [wikipedia.org](https://www.wikipedia.org/)
 - [openstreetmaps.org](https://www.openstreetmap.org/)
-- Tools for organizing: [RISEUP.NET](https://www.riseup.net/)
+- [Project Drawdown](https://drawdown.org/): "The Worlds leading Resource for Climate Solutions"
+
 
 ## TECH
 
@@ -90,6 +92,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [**Germany**] [reparatur-initiativen.de](www.reparatur-initiativen.de): find next repair café.
 - [**World**] [repaircafe.org](https://www.repaircafe.org/en/visit/) all about repair cafes
 - connect with others on [climateconnect.earth](https://climateconnect.earth/de); here is their [repository on github](https://github.com/climateconnect/climateconnect)
+- [**World**] [wedonthavetime.org](https://www.wedonthavetime.org/): a social media platform for climate solutions
 - **[solarpunk reddit community](https://www.reddit.com/r/solarpunk/)**
 - [**Europe**] find all sorts of organisations on [kartevonmorgen.org](https://kartevonmorgen.org/)
 - [**Germany**] [wechange.de](https://wechange.de) hosts another [map](https://wechange.de/map/) with a lot of projects with exciting ideas
@@ -141,6 +144,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 ### Resources
 
+- Tools for organizing: [RISEUP.NET](https://www.riseup.net/)
 - [how to start groups](https://theanarchistlibrary.org/library/andrew-flood-a-practical-guide-to-anarchist-organisation#toc68)
 - [challenges of organising](https://guerrillafoundation.org/eight-common-challenges-to-community-organising-in-europe/)
 - - [System Change Course](https://www.youtube.com/watch?v=ZS5y--ODWeU&list=PLsJWgOB5mIMCAD33pve6_HyfuGTlCTQgd&ab_channel=SystemsInnovation) on YouTube
