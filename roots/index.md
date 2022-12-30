@@ -61,7 +61,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [Working Group on Development Techniques (WOT)](https://www.wot.utwente.nl/en/about-the-wot): developing technology for use in developing countries
 - [**Germany**] [werkstatt-lastenrad](https://www.werkstatt-lastenrad.de/index.php?title=Hauptseite) construction plans on building cargo bikes
 (<https://www.reparatur-initiativen.de/reparatur-termine>)
-- [appropedia](https://www.appropedia.org/Category:Content) offers also a lot of tech related content
+- **[appropedia](https://www.appropedia.org/) offers also a lot of tech related content**
 - a list of mutual aid groups is missing!
 - [opensourceecology.org](https://www.opensourceecology.org/) open source blueprints for civilization.
 - [biofabforum.org](https://biofabforum.org/): A community for knowledge exchange and experimentation around the manufacturing with biological materials.
