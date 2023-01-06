@@ -22,6 +22,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [openstreetmaps.org](https://www.openstreetmap.org/)
 - [Project Drawdown](https://drawdown.org/): "The Worlds leading Resource for Climate Solutions"
 - [Shareable](https://www.shareable.net/): "People-powered solutions for the common good"
+- [Oppia.org](https://www.oppia.org/about-foundation): Building a community to provide quality education to those who lack access to it
 
 ## TECH
 
@@ -148,7 +149,8 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - Tools for organizing: [RISEUP.NET](https://www.riseup.net/)
 - [how to start groups](https://theanarchistlibrary.org/library/andrew-flood-a-practical-guide-to-anarchist-organisation#toc68)
 - [challenges of organising](https://guerrillafoundation.org/eight-common-challenges-to-community-organising-in-europe/)
-- - [System Change Course](https://www.youtube.com/watch?v=ZS5y--ODWeU&list=PLsJWgOB5mIMCAD33pve6_HyfuGTlCTQgd&ab_channel=SystemsInnovation) on YouTube
+- [System Change Course](https://www.youtube.com/watch?v=ZS5y--ODWeU&list=PLsJWgOB5mIMCAD33pve6_HyfuGTlCTQgd&ab_channel=SystemsInnovation) on YouTube
+- [Albert Einstein Institution](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/): advancing freedom with non-violent action, [198 METHODS OF NONVIOLENT ACTION](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/)
 
 ## LAWS
 
