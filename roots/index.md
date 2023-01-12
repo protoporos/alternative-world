@@ -8,8 +8,11 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [**Europe**] [wechange](https://wechange.de/map/)
 - [**US/NYC**] [NYC Solidarity Economies](http://solidaritynyc.org/)
 
+
+
 ### Share knowledge/projects/initiatives
 
+- **[opensustain.tech](https://report.opensustain.tech/chapters/overview.html): Overview of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.**
 - **about P2P production and commons: [p2pfoundation](https://wiki.p2pfoundation.net/)**
 - **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
 - [goexplorer.org](https://goexplorer.org/): find sustainable solutions for SDGs
