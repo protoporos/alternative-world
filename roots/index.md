@@ -71,6 +71,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 - [biofabforum.org](https://biofabforum.org/): A community for knowledge exchange and experimentation around the manufacturing with biological materials.
 - [systemli.org](https://www.systemli.org/friends/): list of tech collectives providing digital services
 - [solar powerd servers around the world](http://solarprotocol.net/)
+- [lifecycle analysis of different tech](https://www.designlife-cycle.com/)
 
 ### Sharing Tools
 
