@@ -135,6 +135,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 ## Activism
 
 - [Netzwerk N](https://netzwerk-n.org/)Das netzwerk n verbindet Studierende, Promovierende, junge Berufstätige und Initiativen an Hochschulen. Wir engagieren uns für nachhaltige Entwicklung in Betrieb, Lehre, Forschung, Governance und Transfer.
+- [**Germany**] [Planet-N](https://www.planet-n.de/stories/): play stories that explore the impact of our system.
 - repository of Extinction Rebellion, a [founder course](https://github.com/extinctionrebellion/docs/blob/master/SUMMARY.md)
 - how to organise protests, more in [activist handbook](https://www.activisthandbook.org/en/home)
 - more about [non-violent action](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/)
