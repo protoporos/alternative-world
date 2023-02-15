@@ -12,6 +12,7 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 
 ### Share knowledge/projects/initiatives
 
+- **[energypedia.info](https://energypedia.info]: knowledge platform for sustainable energy in a developing world since 2010.**
 - **[opensustain.tech](https://report.opensustain.tech/chapters/overview.html): Overview of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.**
 - **about P2P production and commons: [p2pfoundation](https://wiki.p2pfoundation.net/)**
 - **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
@@ -54,9 +55,11 @@ This is a list of nodes for an alternative world: (great resources are **bold**)
 ### Water
 
 - a more effective use of water by better technology: [showerloop](https://showerloop.org/)
+- **[akvopedia.org](https://akvopedia.org): free, open-source water, sanitation & hygiene wiki**
 
 ### OS-TECH-Networks
 
+- **[energypedia.info](https://energypedia.info]: knowledge platform for sustainable energy in a developing world since 2010.**
 - **all about [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) a git hub list**
 - a repare forum for all kinds of tech: [ifixit](https://www.ifixit.com/)
 - [instructables](https://www.instructables.com/howto/): a community that creates guides on how to make things.
