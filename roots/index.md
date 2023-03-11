@@ -70,10 +70,12 @@ MAPS
 - [**World**] [endlessorchard](https://endlessorchard.com/map/) lets you find fruit trees
 - [**Europe**][mundraub](https://mundraub.org/map): mapping the abundancy of trees
 - [**US**] [native platn finder](https://www.nwf.org/NativePlantFinder/) find native plants in your area
+
 AGRICULTURE
 - [freepermaculture.com](https://www.freepermaculture.com/) do a full free permaculture course
 - Hydropondics a [GitHub repository](https://github.com/rhagman/sustainable-green-plants)
 - [farmhack.org](https://farmhack.org/) a platform where farmers share blueprints for their open developed tools.
+
 WATER
 - **[akvopedia.org](https://akvopedia.org): free, open-source water, sanitation & hygiene wiki**
 - [showerloop](https://showerloop.org/): a more effective use of water by better technology
