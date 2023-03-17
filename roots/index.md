@@ -16,6 +16,7 @@ Tools, Information, Network/Connect
 
 ## EDUCATION
 - [Oppia.org](https://www.oppia.org/about-foundation): Building a community to provide quality primary education to those who lack access to it
+- [Untools.co](https://untools.co/): Tools for thinking
 
 ## DIGITAL SOFTWARE TOOLS
 - [systemli.org](https://www.systemli.org/friends/): list of tech collectives providing digital services
