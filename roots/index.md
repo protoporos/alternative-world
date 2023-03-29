@@ -22,6 +22,7 @@ Tools, Information, Network/Connect
 - [systemli.org](https://www.systemli.org/friends/): list of tech collectives providing digital services
 - [anarchaserver](http://anarchaserver.org/): pastebin, calender and survey tool and tool to send encrypted files
 - [riseup.net](https://riseup.net/)
+- [when2meet](https://www.when2meet.com/): schedual meetings
 
 ## ACTIVISM
 - [how to start groups](https://theanarchistlibrary.org/library/andrew-flood-a-practical-guide-to-anarchist-organisation#toc68)
