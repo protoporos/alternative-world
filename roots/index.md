@@ -185,4 +185,5 @@ WATER
 - from a different [github repo](https://github.com/ouisharelabs/food-dashboard#links)
 - <https://e2h.totalism.org/e2h.php?_=alike#____The_Mietshx26@228x3Buser_Syndikat_x5BGermany__x7E100_projectsx5D>
 - from [solarpunk reddit forum](https://www.reddit.com/r/solarpunk/wiki/projects#wiki_maps_of_projects_and_resources_around_the_world)
+- found in merveilles town: https://cryptpad.fr/code/#/2/code/edit/ImihQJko6d1Jk2hsFks9b5lT/
 
