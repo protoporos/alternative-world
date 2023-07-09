@@ -42,6 +42,7 @@ Tools, Information, Network/Connect
 
 - **about P2P production and commons: [p2pfoundation](https://wiki.p2pfoundation.net/)**
 - **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
+- **[Exploring Economics](https://www.exploring-economics.org/)** is an open access, e-learning platform on pluralist economics. 
 - [goexplorer.org](https://goexplorer.org/): find sustainable solutions for SDGs
 
 - **[opensustain.tech](https://report.opensustain.tech/chapters/overview.html): Overview of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.**
