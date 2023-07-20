@@ -52,6 +52,8 @@ Tools, Information, Network/Connect
 - [Shareable](https://www.shareable.net/): "People-powered solutions for the common good"
 - **[A Solarpunks collectiv's wiki](https://wiki.sunbeam.city/doku.php?id=start)**
 - [Projekt Camp](https://community.projectkamp.com/academy/start/intro): they're acadamy side, where all the gained knowledge is published and their [research platform](https://community.projectkamp.com/research)
+- [gendercc](https://www.gendercc.net/): women for climate justice
+
 
 ---
 
