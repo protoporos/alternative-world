@@ -65,6 +65,7 @@ Tools, Information, Network/Connect
 
 - [open hardware observatory](https://en.oho.wiki/wiki/Home)
 - [opensourceecology.org](https://www.opensourceecology.org/) open source blueprints for civilization.
+- [omick.net](https://www.omick.net/index.html) A Few Simple Technologies for Daily Living.
 
 
 
