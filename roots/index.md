@@ -21,6 +21,7 @@ Tools, Information, Network/Connect
 
 ## CLIMATE ANALYSIS
 - [de] [klimadashboard](https://klimadashboard.de/)
+- [CO2 offset tracker](https://www.cdr.fyi/
 
 ## DIGITAL SOFTWARE TOOLS
 - [systemli.org](https://www.systemli.org/friends/): list of tech collectives providing digital services
@@ -36,7 +37,6 @@ Tools, Information, Network/Connect
 
 ## LAWS
 - OSS license that prohibits fossil fuel enterprises to use your work: [climate-strike license](https://github.com/climate-strike/license)
-
 
 
 
