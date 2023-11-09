@@ -47,7 +47,7 @@ Tools, Information, Network/Connect
 - **[appropedia](https://www.appropedia.org/Welcome_to_Appropedia): a whole wiki around sustainability and SDG's**
 - **[Exploring Economics](https://www.exploring-economics.org/)** is an open access, e-learning platform on pluralist economics. 
 - [goexplorer.org](https://goexplorer.org/): find sustainable solutions for SDGs
-
+- **[projektwerkstatt.de](https://projektwerkstatt.de/index.php?domain_id=40&p=14696)** a wiki all about change
 - **[opensustain.tech](https://report.opensustain.tech/chapters/overview.html): Overview of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.**
 - **all about [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) a git hub list**
 
