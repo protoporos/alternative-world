@@ -108,6 +108,7 @@ WATER
 ## MANUFACTURING
 - [biofabforum.org](https://biofabforum.org/): A community for knowledge exchange and experimentation around the manufacturing with biological materials.
 - [lifecycle analysis of different tech](https://www.designlife-cycle.com/)
+- [openstructures](https://openstructures.net/projects) manufacturing open source furniture
 
 ## COMMUNAL LIVING
 - [**US**] [community weatlh](https://community-wealth.org/): an organisation providing knowledge around building community.
