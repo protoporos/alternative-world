@@ -23,6 +23,12 @@ Tools, Information, Network/Connect
 - [de] [klimadashboard](https://klimadashboard.de/)
 - [CO2 offset tracker](https://www.cdr.fyi/
 
+## TREND ANALYSIS
+
+- wikipedia search trends
+- google search trends
+- google news
+
 ## DIGITAL SOFTWARE TOOLS
 - [systemli.org](https://www.systemli.org/friends/): list of tech collectives providing digital services
 - [anarchaserver](http://anarchaserver.org/): pastebin, calender and survey tool and tool to send encrypted files
