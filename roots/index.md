@@ -125,6 +125,7 @@ WATER
 ## CLIMATE POLICIES
 
 - [databases on climate lobying](https://www.desmog.com/databases/)
+- [wiki about PR-campaigns](https://www.sourcewatch.org/)
 
 
 # NETWORK / CONNECT which are local things
