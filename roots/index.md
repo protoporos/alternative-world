@@ -122,6 +122,9 @@ WATER
 ## FINANCE
 - [finance a list](https://github.com/philsturgeon/awesome-earth#finance)
 
+## CLIMATE POLICIES
+
+- [databases on climate lobying](https://www.desmog.com/databases/)
 
 
 # NETWORK / CONNECT which are local things
@@ -148,7 +151,6 @@ WATER
 - [foodnotbombs.net](http://foodnotbombs.net/new_site/index.php) find your nearest chapter or create one. [map](https://www.google.com/maps/d/viewer?mid=1KVbOaPBP2Xh1zk59DS9nI-BjjYnrwtwD&hl=en_US&ll=23.89273390485849%2C-54.36463960625008&z=2)
 - [**Germany**] [Letzte Generation](https://letztegeneration.de/): just stop oil!
 - [**Germany**] [GermanZero](https://www.germanzero.de/):fighting for the 1.5 pathway in Germany.
-- [**Germany/Dresden**] [Königsbrücker muss leben!](http://koenigsbruecker-muss-leben.de/home.php)
 - [**US**] [THE CLIMATE MOBILIZATION](https://www.theclimatemobilization.org/): mobilizing the whole society to prevent climate catastrophe.
 - [**US**] [sunrisemovement.org](https://www.sunrisemovement.org/) The climate revolutionaries
 - [**UK**] [juststopoil.org](https://juststopoil.org/) just stop oil and gas
