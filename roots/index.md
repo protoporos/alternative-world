@@ -25,7 +25,7 @@ Tools, Information, Network/Connect
 
 ## TREND ANALYSIS
 
-- wikipedia search trends
+- [wikipedia search trends](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
 - google search trends
 - google news
 
@@ -115,6 +115,7 @@ WATER
 - [biofabforum.org](https://biofabforum.org/): A community for knowledge exchange and experimentation around the manufacturing with biological materials.
 - [lifecycle analysis of different tech](https://www.designlife-cycle.com/)
 - [openstructures](https://openstructures.net/projects) manufacturing open source furniture
+- [wikihouse](https://www.wikihouse.cc/) open source modular houses
 
 ## COMMUNAL LIVING
 - [**US**] [community weatlh](https://community-wealth.org/): an organisation providing knowledge around building community.
