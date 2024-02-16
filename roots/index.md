@@ -135,7 +135,8 @@ WATER
 - [**Europe**] [kartevonmorgen](https://kartevonmorgen.org/)
 - [**Europe**] [wechange](https://wechange.de/map/)
 - [**US/NYC**] [NYC Solidarity Economies](http://solidaritynyc.org/)
-- [**World**] [trustroots.org](https://www.trustroots.org/): We want a world that encourages trust, adventure and intercultural connections. Our willingness to help each other is universal. 
+- [**World**] [trustroots.org](https://www.trustroots.org/): We want a world that encourages trust, adventure and intercultural connections. Our willingness to help each other is universal.
+- [**World**] [radical-guide](https://www.radical-guide.com/)
 
 ## ACCOMODATION NETWORKS
 - [wwoof.net](https://wwoof.net/): work on organic farms and get rewarded by a bed, healthy food and friendly people
