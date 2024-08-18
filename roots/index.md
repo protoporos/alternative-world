@@ -119,6 +119,7 @@ WATER
 
 ## COMMUNAL LIVING
 - [**US**] [community weatlh](https://community-wealth.org/): an organisation providing knowledge around building community.
+- [what environmental activists learned from many protest camps](https://aktivismus.org/books/infrastruktur-wiki-de)
 
 ## FINANCE
 - [finance a list](https://github.com/philsturgeon/awesome-earth#finance)
