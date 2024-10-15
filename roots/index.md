@@ -19,10 +19,14 @@ Tools, Information, Network/Connect
 - [Oppia.org](https://www.oppia.org/about-foundation): Building a community to provide quality primary education to those who lack access to it
 - [Untools.co](https://untools.co/): Tools for thinking
 - [OSF](https://osf.io/?view_only=): free and open platform for public research
+- [Gapminder](https://www.gapminder.org/tools/): free analytics platform for global trends
 
 ## CLIMATE ANALYSIS
 - [de] [klimadashboard](https://klimadashboard.de/)
-- [CO2 offset tracker](https://www.cdr.fyi/
+- [de] [energy-charts](https://www.energy-charts.info/)
+- [CO2 offset tracker](https://www.cdr.fyi/]
+- [Climate Change Performance Index](https://ccpi.org/)
+- 
 
 ## TREND ANALYSIS
 
