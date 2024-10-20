@@ -19,7 +19,7 @@ Tools, Information, Network/Connect
 - [Oppia.org](https://www.oppia.org/about-foundation): Building a community to provide quality primary education to those who lack access to it
 - [Untools.co](https://untools.co/): Tools for thinking
 - [OSF](https://osf.io/?view_only=): free and open platform for public research
-- [Gapminder](https://www.gapminder.org/tools/): free analytics platform for global trends
+
 
 ## CLIMATE ANALYSIS
 - [de] [klimadashboard](https://klimadashboard.de/)
@@ -33,6 +33,7 @@ Tools, Information, Network/Connect
 - [wikipedia search trends](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
 - google search trends
 - google news
+- [Gapminder](https://www.gapminder.org/tools/): free analytics platform for global trends
 
 ## DIGITAL SOFTWARE TOOLS
 - [systemli.org](https://www.systemli.org/friends/): list of tech collectives providing digital services
@@ -45,6 +46,7 @@ Tools, Information, Network/Connect
 - [challenges of organising](https://guerrillafoundation.org/eight-common-challenges-to-community-organising-in-europe/)
 - [System Change Course](https://www.youtube.com/watch?v=ZS5y--ODWeU&list=PLsJWgOB5mIMCAD33pve6_HyfuGTlCTQgd&ab_channel=SystemsInnovation) on YouTube
 - [Albert Einstein Institution](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/): advancing freedom with non-violent action, [198 METHODS OF NONVIOLENT ACTION](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/)
+- [Beautiful Trouble](https://beautifultrouble.org)
 
 ## LAWS
 - OSS license that prohibits fossil fuel enterprises to use your work: [climate-strike license](https://github.com/climate-strike/license)
