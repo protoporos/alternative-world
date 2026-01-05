@@ -205,7 +205,7 @@ WATER
 - [**US/Canada**] [strongtowns.org](https://actionlab.strongtowns.org/hc/en-us/articles/360054839451-Local-Conversations-Map)
 - [**World**] [Foundation for Intentional Community](https://www.ic.org/)
 - [**World**] [numundo](https://numundo.org/centers?lang=en) too offers a world wide map for eco-villages
-
+- [**Germany**] [bring-together.de](https://www.bring-together.de/de/plattform) Gemeinsam Wohnen mit Matching: Finde deine passende Wohnform für jedes Alter und jeden Lebensstil
 ---
 
 # OTHER LINKS
